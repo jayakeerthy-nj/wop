@@ -1,6 +1,5 @@
-# wop\n
-\n npm i 
-\n npm i @superbase/ssr@latest
-\n npm run dev
-
-\ndo not forget to create .env.local
+# wop
+npm i    
+npm i @superbase/ssr@latest    
+npm run dev    
+do not forget to create .env.local   
